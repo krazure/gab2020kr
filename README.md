@@ -61,4 +61,4 @@
 
 우리 Global Azure 2020 Korea 행사는 아래와 같은 행동 강령을 준수합니다.
 
-[행동 강령 보러 가기](/krazure/gab2020kr/CODE-OF-CONDUCT.md)
+[행동 강령 보러 가기](CODE-OF-CONDUCT.md)
