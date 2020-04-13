@@ -7,7 +7,7 @@
 
 | 제목 | 발표자 | 슬라이드 | 소스코드 |
 |------|--------|----------|----------|
-| [애저 Durable Functions으로 RequestBin 만들어보기](/krazure/gab2020kr/issues/1) | [유정협](/krazure/gab2020kr/issues/2) | 링크 | 링크 |
+| [애저 Durable Functions으로 RequestBin 만들어보기](issues/1) | [유정협](issues/2) | 링크 | 링크 |
 
 
 ## 본 행사 ##
