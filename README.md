@@ -21,7 +21,6 @@
 | [Azure DevOps와 Rancher를 활용한 AKS 애플리케이션 배포 및 모니터링 맛보기](https://github.com/krazure/gab2020kr/issues/22) | [김영대](https://github.com/krazure/gab2020kr/issues/14) | 링크 | 링크 |
 | [쿠버네티스에서 돌리는 IIS와 ASP.NET 체험해보기](https://github.com/krazure/gab2020kr/issues/23) | [남정현](https://github.com/krazure/gab2020kr/issues/5) | 링크 | 링크 |
 | [AKS(Azure Kubernetes Services)에서 Kafka 설치하기](https://github.com/krazure/gab2020kr/issues/24) | [이동진](https://github.com/krazure/gab2020kr/issues/9) | 링크 | 링크 |
-| [Azure DevOps 를 대박 편하게 쓸 수 있는 팁 대!공!개!](https://github.com/krazure/gab2020kr/issues/25) | [배준현](https://github.com/krazure/gab2020kr/issues/18) | 링크 | 링크 |
 
 
 ### 트랙 B: 보안 ###
@@ -32,7 +31,7 @@
 | [원격에서 안전한 On-Premise, Cloud 어플리케이션 사용을 위한 Azure AD Appication Proxy](https://github.com/krazure/gab2020kr/issues/27) | [김홍민](https://github.com/krazure/gab2020kr/issues/8) | 링크 | 링크 |
 | [윈도 가상 데스크탑, 쿠버네티스 등 Azure 서비스, 인증부터 다시 보자](https://github.com/krazure/gab2020kr/issues/29) | [최영락](https://github.com/krazure/gab2020kr/issues/28) | 링크 | 링크 |
 | [성공적인 하이브리드 클라우드를 위한 Azure 네트워크와 서비스: 고재성](https://github.com/krazure/gab2020kr/issues/30) | [고재성](https://github.com/krazure/gab2020kr/issues/19) | 링크 | 링크 |
-| [적은 항상 내부에 있다! 어떻게 Azure를 지켜낼 것인가!](https://github.com/krazure/gab2020kr/issues/31) | [김세준](https://github.com/krazure/gab2020kr/issues/15) | 링크 | 링크 |
+| [Azure DevOps 를 대박 편하게 쓸 수 있는 팁 대!공!개!](https://github.com/krazure/gab2020kr/issues/25) | [배준현](https://github.com/krazure/gab2020kr/issues/18) | 링크 | 링크 |
 
 
 ### 트랙 C: AI & IoT ###
