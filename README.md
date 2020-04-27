@@ -54,7 +54,7 @@
 
 | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |------|--------|----------|--------|----------|
-| [버그를 줄여주고, 퇴근시간을 앞당겨주는 Azure Dev Ops! 100% 활용하기](https://github.com/krazure/gab2020kr/issues/38) | [김은지](https://github.com/krazure/gab2020kr/issues/10) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-d/speaker-track-d-1-kimeunji.pdf) | 링크 |  |
+| [버그를 줄여주고, 퇴근시간을 앞당겨주는 Azure Dev Ops! 100% 활용하기](https://github.com/krazure/gab2020kr/issues/38) | [김은지](https://github.com/krazure/gab2020kr/issues/10) | [링크](https://aka.ms/AA8a596) | 링크 |  |
 | [데이터 분석, 파워 BI로 어디까지 해 봤니?](https://github.com/krazure/gab2020kr/issues/39) | [송윤희](https://github.com/krazure/gab2020kr/issues/7) | 링크 | 링크 |  |
 | [파워 앱과 안면 인식 서비스로 학교 온라인 출석체크 앱 만들기](https://github.com/krazure/gab2020kr/issues/3) | [유정협](https://github.com/krazure/gab2020kr/issues/2) | [링크](https://aka.ms/AA89ksl) | 링크 | [링크](https://github.com/devkimchi/Azure-Functions-Face-Recognition-Sample) |
 | [너와 나의 연결 고리 ~ 우리는 대세 Microsoft Teams로 일한다](https://github.com/krazure/gab2020kr/issues/40) | [박은정](https://github.com/krazure/gab2020kr/issues/6) | 링크 | 링크 |  |
