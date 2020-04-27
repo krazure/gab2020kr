@@ -38,9 +38,10 @@
 
 ### 본 동영상 ###
 
-<span style="font-weight: bold; font-size: 16pt;">아주 중요합니다!!</span>
+**아주 중요합니다!!**
 
-<span style="color: red; font-weight: bold; font-size: 16pt;">발표자의 개인 정보 부분이 있는지 확인하고, 있을 경우 반드시 모자이크 처리한다.</span>
+**발표자의 개인 정보 부분이 있는지 확인하고, 있을 경우 반드시 모자이크 처리한다.**
+
 
 ### 본 동영상 이후 ###
 
