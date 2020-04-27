@@ -22,9 +22,9 @@
 | 제목 | 발표자 | 슬라이드 | 소스코드 |
 |------|--------|----------|----------|
 | [Azure DevOps 를 사용해서 아주 쉽고 재미나게 가상 머신에 코드를 배포해보기!](https://github.com/krazure/gab2020kr/issues/20) | [주민규](https://github.com/krazure/gab2020kr/issues/4) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-a/jumingyu-speaker.pdf) | 링크 |
-| [새로운 퀘스트! 게임 서버 개발자를 위한 윈도 컨테이너 입문](https://github.com/krazure/gab2020kr/issues/21) | [남정현](https://github.com/krazure/gab2020kr/issues/5) | 링크 | 링크 |
+| [새로운 퀘스트! 게임 서버 개발자를 위한 윈도 컨테이너 입문](https://github.com/krazure/gab2020kr/issues/21) | [남정현](https://github.com/krazure/gab2020kr/issues/5) | [링크](https://1drv.ms/p/s!Aj231qrFhIQxqcNGnP-JRzunoO8Y2g?e=fakkhy) | |
 | [Azure DevOps와 Rancher를 활용한 AKS 애플리케이션 배포 및 모니터링 맛보기](https://github.com/krazure/gab2020kr/issues/22) | [김영대](https://github.com/krazure/gab2020kr/issues/14) | 링크 | 링크 |
-| [쿠버네티스에서 돌리는 IIS와 ASP.NET 체험해보기](https://github.com/krazure/gab2020kr/issues/23) | [남정현](https://github.com/krazure/gab2020kr/issues/5) | 링크 | 링크 |
+| [쿠버네티스에서 돌리는 IIS와 ASP.NET 체험해보기](https://github.com/krazure/gab2020kr/issues/23) | [남정현](https://github.com/krazure/gab2020kr/issues/5) | [링크](https://1drv.ms/p/s!Aj231qrFhIQxqcNHDE9T5n2KqD3rrw?e=ze0U1J) | |
 | [AKS(Azure Kubernetes Services)에서 Kafka 설치하기](https://github.com/krazure/gab2020kr/issues/24) | [이동진](https://github.com/krazure/gab2020kr/issues/9) | 링크 | 링크 |
 
 
