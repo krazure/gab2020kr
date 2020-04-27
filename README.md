@@ -58,7 +58,7 @@
 | [데이터 분석, 파워 BI로 어디까지 해 봤니?](https://github.com/krazure/gab2020kr/issues/39) | [송윤희](https://github.com/krazure/gab2020kr/issues/7) | 링크 | 링크 |
 | [파워 앱과 안면 인식 서비스로 학교 온라인 출석체크 앱 만들기](https://github.com/krazure/gab2020kr/issues/3) | [유정협](https://github.com/krazure/gab2020kr/issues/2) | 링크 | 링크 |
 | [너와 나의 연결 고리 ~ 우리는 대세 Microsoft Teams로 일한다](https://github.com/krazure/gab2020kr/issues/40) | [박은정](https://github.com/krazure/gab2020kr/issues/6) | 링크 | 링크 |
-| [Azure App Service를 사용해 빠르고 쉽게 서버 배포하기](https://github.com/krazure/gab2020kr/issues/41) | [노아론](https://github.com/krazure/gab2020kr/issues/11) | 링크 | 링크 |
+| [Azure App Service를 사용해 빠르고 쉽게 서버 배포하기](https://github.com/krazure/gab2020kr/issues/41) | [노아론](https://github.com/krazure/gab2020kr/issues/11) | [링크](https://github.com/roharon/gab2020kr/blob/master/track-d/rohaaron-speaker.pdf) | [링크](https://github.com/roharon/global-azure-app-demo) |
 
 
 ## 행동 강령 (Code of Conduct) ##
