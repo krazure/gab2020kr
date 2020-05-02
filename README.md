@@ -34,7 +34,7 @@
 |------|--------|----------|--------|----------|
 | [Azure는 어떻게 보안할 수 있나요?](https://github.com/krazure/gab2020kr/issues/26) | [김세준](https://github.com/krazure/gab2020kr/issues/15) | 링크 | 링크 | 링크 |
 | [원격에서 안전한 On-Premise, Cloud 어플리케이션 사용을 위한 Azure AD Appication Proxy](https://github.com/krazure/gab2020kr/issues/27) | [김홍민](https://github.com/krazure/gab2020kr/issues/8) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-b/speaker-track-b-2-kimhongmin.pdf) | 링크 |  |
-| [윈도 가상 데스크탑, 쿠버네티스 등 Azure 서비스, 인증부터 다시 보자](https://github.com/krazure/gab2020kr/issues/29) | [최영락](https://github.com/krazure/gab2020kr/issues/28) | 링크 | 링크 | 링크 |
+| [윈도 가상 데스크탑, 쿠버네티스 등 Azure 서비스, 인증부터 다시 보자](https://github.com/krazure/gab2020kr/issues/29) | [최영락](https://github.com/krazure/gab2020kr/issues/28) | [링크](https://aka.ms/gab2020/track-b-3) | 링크 | 링크 |
 | [성공적인 하이브리드 클라우드를 위한 Azure 네트워크와 서비스: 고재성](https://github.com/krazure/gab2020kr/issues/30) | [고재성](https://github.com/krazure/gab2020kr/issues/19) | 링크 | 링크 | 링크 |
 | [Azure DevOps 를 대박 편하게 쓸 수 있는 팁 대!공!개!](https://github.com/krazure/gab2020kr/issues/25) | [배준현](https://github.com/krazure/gab2020kr/issues/18) | 링크 | 링크 | 링크 |
 
@@ -43,10 +43,10 @@
 
 | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |------|--------|----------|--------|----------|
-| [친절한 사육사의 좌충우돌 동물의 숲 앱 만들기](https://github.com/krazure/gab2020kr/issues/32) | [전미정](https://github.com/krazure/gab2020kr/issues/17) | 링크 | 링크 | 링크 |
-| [Azure Emotion API UWP 프로그래밍 Step By Step](https://github.com/krazure/gab2020kr/issues/33) | [김도균](https://github.com/krazure/gab2020kr/issues/12) | 링크 | 링크 | 링크 |
-| [시계열 데이터 예측을 위한 AutoML 만들어보기](https://github.com/krazure/gab2020kr/issues/35) | [김태영](https://github.com/krazure/gab2020kr/issues/34) | 링크 | 링크 | 링크 |
-| [IoT 를 위한 Azure Sphere 활용](https://github.com/krazure/gab2020kr/issues/36) | [윤기석](https://github.com/krazure/gab2020kr/issues/13) | 링크 | 링크 | 링크 |
+| [친절한 사육사의 좌충우돌 동물의 숲 앱 만들기](https://github.com/krazure/gab2020kr/issues/32) | [전미정](https://github.com/krazure/gab2020kr/issues/17) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-c/speaker-track-c-1-jeonmijeong.pdf) | 링크 | 링크 |
+| [Azure Emotion API UWP 프로그래밍 Step By Step](https://github.com/krazure/gab2020kr/issues/33) | [김도균](https://github.com/krazure/gab2020kr/issues/12) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-c/speaker-track-c-2-kimdokyun.pdf) | 링크 | 링크 |
+| [시계열 데이터 예측을 위한 AutoML 만들어보기](https://github.com/krazure/gab2020kr/issues/35) | [김태영](https://github.com/krazure/gab2020kr/issues/34) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-c/speaker-track-c-3-kimtaeyoung.pdf) | 링크 | 링크 |
+| [IoT 를 위한 Azure Sphere 활용](https://github.com/krazure/gab2020kr/issues/36) | [윤기석](https://github.com/krazure/gab2020kr/issues/13) | [링크](aka.ms/gab2020/track-c-4) | 링크 | 링크 |
 | [애저로 온라인 클래스 동접자 300만명 감당해 본 썰](https://github.com/krazure/gab2020kr/issues/37) | [김영욱](https://github.com/krazure/gab2020kr/issues/16) | 링크 | 링크 |  |
 
 
@@ -54,9 +54,9 @@
 
 | 제목 | 발표자 | 슬라이드 | 비디오 | 소스코드 |
 |------|--------|----------|--------|----------|
-| [버그를 줄여주고, 퇴근시간을 앞당겨주는 Azure Dev Ops! 100% 활용하기](https://github.com/krazure/gab2020kr/issues/38) | [김은지](https://github.com/krazure/gab2020kr/issues/10) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-d/speaker-track-d-1-kimeunji.pdf) | 링크 |  |
+| [버그를 줄여주고, 퇴근시간을 앞당겨주는 Azure Dev Ops! 100% 활용하기](https://github.com/krazure/gab2020kr/issues/38) | [김은지](https://github.com/krazure/gab2020kr/issues/10) | [링크](https://aka.ms/gab2020/track-d-1) | 링크 |  |
 | [데이터 분석, 파워 BI로 어디까지 해 봤니?](https://github.com/krazure/gab2020kr/issues/39) | [송윤희](https://github.com/krazure/gab2020kr/issues/7) | 링크 | 링크 |  |
-| [파워 앱과 안면 인식 서비스로 학교 온라인 출석체크 앱 만들기](https://github.com/krazure/gab2020kr/issues/3) | [유정협](https://github.com/krazure/gab2020kr/issues/2) | 링크 | 링크 | [링크](https://github.com/devkimchi/Azure-Functions-Face-Recognition-Sample) |
+| [파워 앱과 안면 인식 서비스로 학교 온라인 출석체크 앱 만들기](https://github.com/krazure/gab2020kr/issues/3) | [유정협](https://github.com/krazure/gab2020kr/issues/2) | [링크](https://aka.ms/gab2020/track-d-3) | 링크 | [링크](https://github.com/devkimchi/Azure-Functions-Face-Recognition-Sample) |
 | [너와 나의 연결 고리 ~ 우리는 대세 Microsoft Teams로 일한다](https://github.com/krazure/gab2020kr/issues/40) | [박은정](https://github.com/krazure/gab2020kr/issues/6) | 링크 | 링크 |  |
 | [Azure App Service를 사용해 빠르고 쉽게 서버 배포하기](https://github.com/krazure/gab2020kr/issues/41) | [노아론](https://github.com/krazure/gab2020kr/issues/11) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-d/speaker-track-d-5-rohaaron.pdf) | 링크 | [링크](https://github.com/roharon/global-azure-app-demo) |
 
