@@ -36,7 +36,7 @@
 | [원격에서 안전한 On-Premise, Cloud 어플리케이션 사용을 위한 Azure AD Appication Proxy](https://github.com/krazure/gab2020kr/issues/27) | [김홍민](https://github.com/krazure/gab2020kr/issues/8) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-b/speaker-track-b-2-kimhongmin.pdf) | [링크](https://www.youtube.com/watch?v=AMYZ2Ij1-u4&list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen&index=7) |  |
 | [윈도 가상 데스크탑, 쿠버네티스 등 Azure 서비스, 인증부터 다시 보자](https://github.com/krazure/gab2020kr/issues/29) | [최영락](https://github.com/krazure/gab2020kr/issues/28) | [링크](https://aka.ms/gab2020/track-b-3) | [링크](https://www.youtube.com/watch?v=eTWiHpOHE_s&list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen&index=8) |  |
 | [성공적인 하이브리드 클라우드를 위한 Azure 네트워크와 서비스: 고재성](https://github.com/krazure/gab2020kr/issues/30) | [고재성](https://github.com/krazure/gab2020kr/issues/19) | [링크](https://github.com/krazure/gab2020kr/blob/master/track-b/speaker-track-b-4-kojaeseung.pdf) | [링크](https://www.youtube.com/watch?v=AZsqQ-DKSH0&list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen&index=9) |  |
-| [Azure DevOps 를 대박 편하게 쓸 수 있는 팁 대!공!개!](https://github.com/krazure/gab2020kr/issues/25) | [배준현](https://github.com/krazure/gab2020kr/issues/18) | 링크 | [링크](https://www.youtube.com/watch?v=5CsNIl1i4u8&list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen&index=10) |  |
+| [Azure DevOps 를 대박 편하게 쓸 수 있는 팁 대!공!개!](https://github.com/krazure/gab2020kr/issues/25) | [배준현](https://github.com/krazure/gab2020kr/issues/18) |  | [링크](https://www.youtube.com/watch?v=5CsNIl1i4u8&list=PLFbmOoKZ852WRZkFql8Gv1U-CNX_WRHen&index=10) |  |
 
 
 ### 트랙 C: AI & IoT ###
